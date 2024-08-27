@@ -1,4 +1,4 @@
-import warning from "@assets/warning.png";
+import warning from "../../Assets/warning.png";
 
 export default function Error404() {
     return (

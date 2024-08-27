@@ -1,5 +1,5 @@
-import WhiteLogo from "@assets/react-git-logo-white.png"; // import usando alias
-import DarkLogo from "../../../assets/react-git-logo-black.png"; // import sem usar alias
+import WhiteLogo from "../../../Assets/react-git-logo-white.png"; // import usando alias
+import DarkLogo from "../../../Assets/react-git-logo-black.png"; // import sem usar alias
 import { useThemeDetector } from "@functions/ThemeDetector.ts";
 import { NavLink, useNavigate } from "react-router-dom";
 import { navbarProperties } from "@constants/NavbarProperties.ts";

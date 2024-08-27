@@ -44,7 +44,7 @@ export default defineConfig({
             "@components": "/src/app/web/components",
             "@screens": "/src/app/web/screens",
             "@routes": "/src/app/web/routes",
-            "@assets": "/src/app/assets",
+            "@assets": "/src/app/Assets",
             "@styles": "/src/app/web/styles",
             "@constants": "/src/app/utils/constants",
             "@integrations": "/src/@clean/integrations/modules",
