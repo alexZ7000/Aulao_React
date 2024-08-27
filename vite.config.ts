@@ -49,7 +49,7 @@ export default defineConfig({
             "@constants": "/src/app/utils/constants",
             "@integrations": "/src/@clean/integrations/modules",
             "@enums": "/src/@clean/shared/domain/enums",
-            "@interfaces": "/src/app/utils/@types/interfaces",
+            "@interfaces": "/src/app/utils/interfaces",
             "@functions": "/src/app/utils/functions",
             "@formatters": "/src/app/utils/formatters"
         }

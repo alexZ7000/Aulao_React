@@ -29,7 +29,7 @@
             "@constants/*": ["app/utils/constants/*"],
             "@integrations/*": ["@clean/integrations/modules/*"],
             "@enums/*": ["@clean/shared/domain/enums/*"],
-            "@interfaces/*": ["app/utils/@types/interfaces/*"],
+            "@interfaces/*": ["app/utils/interfaces/*"],
             "@functions/*": ["app/utils/functions/*"],
             "@formatters/*": ["app/utils/formatters/*"]
         }
